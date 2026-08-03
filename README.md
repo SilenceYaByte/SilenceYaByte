@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SilenceYaByte/SilenceYaByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🖤 SilenceYaByte
 
-Here are some ideas to get you started:
+### Развиваюсь как Python-разработчик
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Пишу код, который экономит время.
+
+静 · 创 · 码
+
+</div>
+
+---
+
+## 👋 Обо мне
+
+Люблю превращать рутинные задачи в небольшие инструменты.
+
+Сейчас изучаю Python глубже, экспериментирую с AI и создаю проекты, которые помогают автоматизировать повседневную работу.
+
+---
+
+## 🚀 Люблю создавать
+
+- ⚡️ Инструменты для автоматизации
+- 🌐 Веб-приложения
+- 📱 Telegram-ботов
+- 🎨 Генераторы
+
+---
+
+## 🛠 Стек
+
+Python • Flask • JavaScript • HTML • CSS • SQLite • Git
+
+---
+
+## 🌱 Сейчас изучаю
+
+- AI Agents
+- Архитектуру Python-приложений
+- Docker
+- Чистую структуру проектов
+
+---
